@@ -1,6 +1,6 @@
-amilys/embyserver:latest
+amilys/embyserver
 xhofe/alist:latest
-lovechen/embyserver:latest
+lovechen/embyserver
 gdy666/lucky
 vaultwarden/server
 easychen/cookiecloud
