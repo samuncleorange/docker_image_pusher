@@ -1,6 +1,18 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+amilys/embyserver:latest
 xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+lovechen/embyserver:latest
+gdy666/lucky
+vaultwarden/server
+easychen/cookiecloud
+chisbread/transmission
+chenhw2/frp
+rockchin/qchatgpt
+jc21/nginx-proxy-manager
+synctvorg/synctv
+badapple9/speedtest-x
+cloudnas/clouddrive2
+snowdreamtech/frps
+bililive/recorder
+evil0ctal/douyin_tiktok_download_api
+ghcr.io/konatadev/lagrange.onebot
+ghcr.io/raywangqvq/bilibili_tool_pro
